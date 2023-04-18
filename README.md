@@ -6,7 +6,8 @@
 <img width="380" align="right" alt="Github" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
 - 👩🏻‍💻 I discovered programming during my higher education in computer systems and telecommunications, specifically when I had to do a project with Arduino. I fell in love with it!
-- 🌱 Currently I just finished my training in Frontend Web Development with ISDI Coders (previously Skylab), one of the best bootcamps of 2021 (according to SwitchUp).
+- 🌱 I’m currently learning Vue.js and Tailwind.
+- 🚀 I just finished my training in Frontend Web Development with ISDI Coders (previously Skylab), one of the best bootcamps of 2021 (according to SwitchUp).
 - ⚡️ I like pets, coffe and the world of the engine.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefaniacr/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estcolros@gmail.com)
 
