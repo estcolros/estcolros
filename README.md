@@ -3,7 +3,7 @@
 
 ## As little more about me...  
 
-<img width="280" align="right" alt="Github" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
+<img width="370" align="right" alt="Github" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
 - 👩🏻‍💻 I discovered programming during my higher education in computer systems and telecommunications, specifically when I had to do a project with Arduino. I fell in love with it!
 - 🌱 I’m currently learning Vue.js and Tailwind.
