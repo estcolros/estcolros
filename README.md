@@ -15,7 +15,7 @@
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 <br>
 
-## Languages and tools
+##  ⚒️ My stack
 <section align="center">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
@@ -41,7 +41,8 @@
 </section>
 
 
-## My Stats 
+## 🔥 My stats
+
 <p align = "center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=estcolros&show_icons=true&theme=radical&bg_color=03510100&text_color=FF8616&title_color=F94A6B&icon_color=FF8616" />
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=estcolros&theme=radical&background=03510100&fire=F94A6B&sideNums=FF8616&ring=F94A6B&dates=FF8616&currStreakLabel=F94A6B&currStreakNum=FF8616&stroke=F94A6B&sideLabels=F94A6B" />
