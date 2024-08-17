@@ -24,7 +24,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-       <img src="http://objectpartners.github.io/react-workshop/assets/img/flux-logo.png" title="Flux" alt="Flux" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
@@ -33,11 +32,11 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
    </div>
 </section>
 
-
+<!--
 ## 🔥 My stats
 
 <p align = "center">
@@ -45,9 +44,7 @@
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=estcolros&theme=radical&background=04010100&fire=F94A6B&sideNums=FF8616&ring=F94A6B&dates=FF8616&currStreakLabel=F94A6B&currStreakNum=FF8616&stroke=F94A6B&sideLabels=F94A6B" />
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcolros&show_icons=true&layout=compact&bg_color=04010100&text_color=FF8616&title_color=F94A6B&icon_color=FF8616&card_width=450" />
 </p>
- 
-  
-<!--
+
 **estcolros/estcolros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
