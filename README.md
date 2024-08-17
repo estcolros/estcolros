@@ -5,15 +5,18 @@
 
 <img width="370" align="right" alt="Github" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
+- 🚀 I'm a fullstack web developer, always learning and eager to find new ways to solve problems.
 - 👩🏻‍💻 I discovered programming during my higher education in computer systems and telecommunications, specifically when I had to do a project with Arduino. I fell in love with it!
 - 🌱 I’m currently learning Vue.js and Tailwind.
-- 🚀 I just finished my training in Frontend Web Development with ISDI Coders (previously Skylab), one of the best bootcamps of 2021 (according to SwitchUp).
 - ⚡️ I like pets, coffe and the world of the engine.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%235077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefaniacr/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estcolros@gmail.com)
+<br>
 
+<!--
 <br>
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 <br>
+-->
 
 ##  ⚒️ My stack
 <section align="center">
@@ -30,7 +33,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
    </div>
